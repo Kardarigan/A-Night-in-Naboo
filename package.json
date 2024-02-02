@@ -1,8 +1,26 @@
 {
-  "name": "a-night-in-naboo",
+  "name": "night-naboo",
   "displayName": "A Night in Naboo",
   "description": "Meet Naboo in VSCODE",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Kardarigan/A-Night-in-Naboo"
+  },
+  "keywords": [
+    "theme",
+    "naboo",
+    "dark",
+    "night",
+    "theme",
+    "darigan",
+    "darigan theme",
+    "darigan dark",
+    "dark theme",
+    "night mode",
+    "star wars",
+    "starwars"
+  ],
   "engines": {
     "vscode": "^1.86.0"
   },
