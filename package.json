@@ -1,0 +1,21 @@
+{
+  "name": "a-night-in-naboo",
+  "displayName": "A Night in Naboo",
+  "description": "Meet Naboo in VSCODE",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.86.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "A Night in Naboo",
+        "uiTheme": "vs-dark",
+        "path": "./themes/A Night in Naboo-color-theme.json"
+      }
+    ]
+  }
+}
